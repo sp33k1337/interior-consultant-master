@@ -1,0 +1,44 @@
+@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 1285px;
+        padding-left: 77px;
+        padding-right: 76px;
+    }
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+
+    .nav-toggle {
+        display: none;
+    }
+
+    .main-text {
+        font-size: 48px;
+        line-height: 61px;
+    }
+
+    .main-paragraph {
+        font-size: 24px;
+        line-height: 29px;
+        width: 410px;
+        height: 145px;
+    }
+    
+    .content {
+        display: flex;
+    }
+    
+    .right-content {
+        padding-left: 87px;
+    }
+
+    .main-img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .footer {
+        padding-top: 128px;
+    }
+}
