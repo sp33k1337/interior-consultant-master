@@ -1,29 +1,24 @@
-const navToggle = document.getElementById('nav_toggle');
-const navClose = document.getElementById('nav_close');
-const navMenu = document.getElementById('nav_menu')
-
+const navMenu = document.getElementById('nav_menu'),
+      navToggle = document.getElementById('nav_toggle'),
+      navClose = document.getElementById('nav_close')
 
 if(navToggle) {
     navToggle.addEventListener('click', () => {
-        navToggle.classList.add('show-menu')
+        navMenu.classList.add('show-menu')
     })
 }
 
 if(navClose) {
     navClose.addEventListener('click', () => {
-        navClose.classList.add('show-menu')
+        navMenu.classList.remove('show-menu')
     })
 }
 
-navToggle.addEventListener("click", () => {
-    navToggle.classList.toggle("active");
-    navClose.classList.toggle("active");
-})
+const navLink = document.querySelectorAll('.nav-link')
 
-const navLink = document.getElementById('nav-link');
-
-const linkAction = () => {
+let linkAction = () => {
     const navMenu = document.getElementById('nav_menu');
-    
-    navMenu.classList.remove('show-menu');
+    navMenu.classList.remove('show-menu')
 }
+
+navLink.forEach(n => n.addEventListener('click', linkAction));
