@@ -1,74 +1,60 @@
-<!-- Please update value in the {}  -->
+# Dev Challenges: Interior Consultant
 
-<h1 align="center">{Your project name}</h1>
+_This is a challenge from Dev Challenges, specialized in frontend develop, is a 404 Not Found._
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+## [Try the live demo](https://sp33k1337.github.io/404not-found-challenge/) ⚡
+![Thumbnail](https://github.com/sp33k1337/404not-found-challenge/blob/main/design/design.png?raw=true)
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
-      Challenge
-    </a>
-  </h3>
-</div>
+<br>
 
-<!-- TABLE OF CONTENTS -->
+## Getting Started 🚀
 
-## Table of Contents
+_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system._
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+See **Requirements** to know the minimum standards to use the project.
 
-<!-- OVERVIEW -->
+### Requirements 📋
 
-## Overview
+_You need to have the following technologies installed to use this project._
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Any browser to open the project.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+* [Google Chrome](https://www.google.com/intl/es/chrome/)
+* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
+* [Opera](https://www.opera.com/es)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+### Installing 🔧
 
-### Built With
+_To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+```ssh
+  $ git clone https://github.com/sp33k1337interior-consultant-master.git
+```
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+<br>
 
-## Features
+## Use Project 👓
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+_To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+<br>
 
-## Acknowledgements
+## Built With 🛠️
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+_Technologies used in the project:_
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+* [HTML 5](https://en.wikipedia.org/wiki/HTML) - Layout and web structure.
+* [CSS 3](https://en.wikipedia.org/wiki/CSS) - Style design.
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
 
-## Contact
+<br>
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+## Author ✒️
+
+_If you like what I do, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
+
+
+### Social networks
+
+* **GitHub** - *Repositories of my latest projects* - [sp33k1337](https://github.com/sp33k1337)
+* **LinkedIn** - *Professional developer profile* - [Nodari Muselishvili](https://www.linkedin.com/in/nodari-muselishvili-7b9692219/)
